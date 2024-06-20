@@ -1,0 +1,8 @@
+20/06 Substituimos o projeto "eventos" por outro chamado "eventos_api"
+Colocamos dependências do OpenAPI
+Aprendemos mais sobre as dependências
+Sempre que iniciarmos o Projeto será pelo Evento Application
+Temos uma parte de testes
+Front end pelde informação ao controller, que pede ao repositório, que pede ao JPA e pega a informação do database, que então retorna para o JPA e Repository, voltando para o controller e Front end.
+Criamos a classe tipo, a classe endereço, usamos o lombok para diminuir os codigos, tambem utilizamos @Entity, @Table, @Getter, @Setter, @AllArgsCostructor e @NoArgsConstructor.
+Criamos várias classes dentro da classe endereco.
