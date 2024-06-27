@@ -7,4 +7,4 @@ Front end pelde informação ao controller, que pede ao repositório, que pede a
 Criamos a classe tipo, a classe endereço, usamos o lombok para diminuir os codigos, tambem utilizamos @Entity, @Table, @Getter, @Setter, @AllArgsCostructor e @NoArgsConstructor.
 Criamos várias classes dentro da classe endereco.
 
-27/06 Usamos o Site "Studio Code" para aprender mais sobre linguagem de programação Java no minecraft.
+27/06 Usamos o Site "Studio Code" para aprender mais sobre linguagem de programação Java no minecraft, aonde fizemos 3 atividades e ganhamos certificados de cada uma delas.
