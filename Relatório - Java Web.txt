@@ -1,0 +1,13 @@
+20/06 Substituimos o projeto "eventos" por outro chamado "eventos_api"
+Colocamos dependências do OpenAPI
+Aprendemos mais sobre as dependências
+Sempre que iniciarmos o Projeto será pelo Evento Application
+Temos uma parte de testes
+Front end pelde informação ao controller, que pede ao repositório, que pede ao JPA e pega a informação do database, que então retorna para o JPA e Repository, voltando para o controller e Front end.
+Criamos a classe tipo, a classe endereço, usamos o lombok para diminuir os codigos, tambem utilizamos @Entity, @Table, @Getter, @Setter, @AllArgsCostructor e @NoArgsConstructor.
+Criamos várias classes dentro da classe endereco.
+
+27/06 Usamos o Site "Studio Code" para aprender mais sobre linguagem de programação Java no minecraft, aonde fizemos 3 atividades e ganhamos certificados de cada uma delas, e usamos o site
+Scratch para fazer um jogo de adivinhação.
+
+04/07 Continuamos o jogo de adivinhação no Scratch, adicionei o fundo do Bob Esponja, o Bob Esponja e o Garry, o caracol dele.
