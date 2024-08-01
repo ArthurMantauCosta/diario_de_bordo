@@ -16,5 +16,8 @@ Scratch para fazer um jogo de adivinhação.
 27/06 Usamos o Site "Studio Code" para aprender mais sobre linguagem de programação Java no minecraft, aonde fizemos 3 atividades e ganhamos certificados de cada uma delas.
 
 11/07 Continuamos a usar o programa scratch para continuar a fazer o jogo Space Invaders.
+<<<<<<< HEAD
 
 01/08/2024 Continuamos a fazer o projeto eventos_api, criamos repositorios e colocamos @JoinColumn(name="id")  em Endereco.java, Eventos.java.
+=======
+>>>>>>> 1b2fdb136d36cb5d5b8f4063f1b5517db0c23af5
