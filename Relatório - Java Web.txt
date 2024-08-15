@@ -21,3 +21,8 @@ Scratch para fazer um jogo de adivinhação.
 01/08/2024 Continuamos a fazer o projeto eventos_api, criamos repositorios e colocamos @JoinColumn(name="id")  em Endereco.java, Eventos.java.
 =======
 >>>>>>> 1b2fdb136d36cb5d5b8f4063f1b5517db0c23af5
+
+08/08/2024 Abrimos nosso projeto no aplicativo PostMan e continuamos a fazer o código, também fizemos uma visita a um dos laboratórios do Senai, onde tinha um braço robô, que construia "carros" de maneira automatizada.
+Agora estamos testando o nosso código no PostMan.
+
+15/08/2024 Continuamos a fazer o projeto API, criamos classes, Controllers e repositories para as seguintes entidades:Cliente, Usuário, Mídia, Ingresso e Fornecedor.
