@@ -26,3 +26,5 @@ Scratch para fazer um jogo de adivinhação.
 Agora estamos testando o nosso código no PostMan.
 
 15/08/2024 Continuamos a fazer o projeto API, criamos classes, Controllers e repositories para as seguintes entidades:Cliente, Usuário, Mídia, Ingresso e Fornecedor.
+
+22/08 Concluimos o projeto e testamos no PostMan.
